@@ -1,7 +1,7 @@
 # tarefa-validation-safety
 
 Tarefa de validação e segurança da escola de programação DevSuperior.
-(https://devsuperior.com "Site da DevSuperior").
+(https://devsuperior.com.br "Site da DevSuperior").
 
 Este é um sistema de eventos e cidades com uma relação N-1 entre eles:
 ![Modelo Conceitual](https://github.com/lucascaetan/assest/blob/main/bds04.png).
